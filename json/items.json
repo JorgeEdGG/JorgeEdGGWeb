@@ -1,24 +1,24 @@
 [
     {
-        "name": "Project 1",
+        "name": "Arduino Functions",
         "description": "This is where you put description about your projects.",
         "image": "images/image1.jpg",
         "link": "https://google.com"
 	},
     {
-        "name": "Project 2",
+        "name": "3D Designs",
         "description": "This is where you put description about your projects.",
         "image": "images/image1.jpg",
         "link": "https://google.com"
 	},
     {
-        "name": "Project 3",
+        "name": "Anymatronic Eyes",
         "description": "This is where you put description about your projects.",
         "image": "images/image1.jpg",
         "link": "https://google.com"
 	},
     {
-        "name": "Project 4",
+        "name": "Snake Robos",
         "description": "This is where you put description about your projects.",
         "image": "images/image1.jpg",
         "link": "https://google.com"
